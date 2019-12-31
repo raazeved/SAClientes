@@ -1,0 +1,21 @@
+Powershell 
+
+[1] Login-AzureRMAccount 
+
+[2]  $rg = "WMS-BR"
+     $location = "Central US"
+     $svrname  = "sql-srv-wms-br"
+     $admpwd = ConvertTo-SecureString "Senha@123" -asPlainText -Force 
+     $sqlusr = "admsql"
+     $dbname = "DB01"
+     $cred = New-Object System.Management.Automation.PSCredentidial -Argumentlist $sqlusr , $admpwd 
+
+
+[3] New-AzureRmSqlServer -ResourceGroupName $rg -ServerName $srvname -Location $location -SqlAdministratorCredentials $cred
+
+
+[4] $database = New-AzureRmSqlDatabase - ResourceGroupName $rg
+                -ServerName $svrname
+                -DatabaseName $dbname
+                -RequestedServiceObjectiveName "S0"
+

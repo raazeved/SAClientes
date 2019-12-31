@@ -1,0 +1,6 @@
+C:\5DEVOPS\SAClientes\ApiClientes\obj\Debug\netcoreapp3.1\ApiClientes.csprojAssemblyReference.cache
+C:\5DEVOPS\SAClientes\ApiClientes\obj\Debug\netcoreapp3.1\staticwebassets\ApiClientes.StaticWebAssets.Manifest.cache
+C:\5DEVOPS\SAClientes\ApiClientes\obj\Debug\netcoreapp3.1\staticwebassets\ApiClientes.StaticWebAssets.xml
+C:\5DEVOPS\SAClientes\ApiClientes\obj\Debug\netcoreapp3.1\ApiClientes.MvcApplicationPartsAssemblyInfo.cache
+C:\5DEVOPS\SAClientes\ApiClientes\obj\Debug\netcoreapp3.1\ApiClientes.AssemblyInfoInputs.cache
+C:\5DEVOPS\SAClientes\ApiClientes\obj\Debug\netcoreapp3.1\ApiClientes.AssemblyInfo.cs
