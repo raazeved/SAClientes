@@ -37,12 +37,12 @@ Api Sales Cloud is a customer relationship management (CRM) platform for custome
 ### SDLC TESTING - Postman    
 ![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/API_MANAGEMENT_QUALIDADE.PNG)
 
-##  SDLC DEPLOY
+##  SDLC USER ACCEPTANCE TEST - CHANGE MANAGEMENT PROCESS 
 
-### IMPLEMENTS A NEW DATACENTER DEPLOY     
+### DATACENTER - DEPLOY API MANAGEMENT     
 ![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/DATACENTER_VIRTUAL_PARA_API_MANAGEMENT.PNG)
 
-### DATACENTER SUPPORTING     
+### DATACENTER - SUPPORT API MANAGEMENT     
 ![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/API_MANAGEMENT_SUPORTE.PNG)
 
 
