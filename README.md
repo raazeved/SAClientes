@@ -6,45 +6,62 @@ API management is the process of creating and publishing web application program
 
 ![apiSalesforce1](https://github.com/raazeved/apiSalesCloud/blob/master/Azure_API_Management.png)
 
-### Architectures based on UX-UI for Web|Desktop|Mobile|Cloud
-### Coding implementation in   HTML/CSS/JS/React|C#|RectNative/Flutter 
+## S U M M A R Y
 
-## PRODUCT MANAGEMENT - DESIGN THINKING & MVP 
+I  - PRODUCT MANAGEMENT - DESIGN THINKING & MVP
+
+II - PRODUCT MANAGEMENT - ARCHITECTURE ROADMAPPING
+
+III- PRODUCT MANAGEMENT - SOLUTION MODELLING APPROACH
+
+IV - SDLC CODING  - SOLUTION IMPLEMENTATION
+
+V  - SDLC UAT - CHANGE MANAGEMENT PROCESS 
+
+VI - DATACENTER - DEPLOY WEB API     
+
+VII - DATACENTER - SUPPORT WEB API   
+
+-----------------------------
+
+## I - PRODUCT MANAGEMENT - DESIGN THINKING & MVP 
 Api Sales Cloud is a customer relationship management (CRM) platform for customer service and support, based on the company's CRM software for sales professionals.
 
 ![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/PRODUCT_MANAGEMENT_DESIGN_THINKING_MVP.PNG)
 
-## PRODUCT ARCHITECTURE MANAGEMENT 
-![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/API_MANAGEMENT.PNG)
+## II - PRODUCT MANAGEMENT - ARCHITECTURE ROADMAPPING  
+### Architectures based on UX-UI for Web|Desktop|Mobile|Cloud
 
-## PRODUCT SDLC MANAGEMENT
+![Ux-ui-fe2](https://github.com/raazeved/apiSalesCloud/blob/master/API_MANAGEMENT.PNG)
 
-### SDLC SPECIFICATION - Front-End Model  
-![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/CONSUMO_API_MANAGEMENT.PNG)
+## III - PRODUCT MANAGEMENT - SOLUTION MODELLING APPROACH
 
-### SDLC SPECIFICATION - Business/Middleware Model   
-![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/API_MANAGEMENT_UML.PNG)
+### A - SDLC SPECIFICATION - Front-End Model  
+![Ux-ui-fe3](https://github.com/raazeved/apiSalesCloud/blob/master/CONSUMO_API_MANAGEMENT.PNG)
 
-### SDLC SPECIFICATION - Data Model   
-![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/API_MANAGEMENT_PERSISTENCIA.PNG)
+### B - SDLC SPECIFICATION - Business/Middleware Model   
+![Ux-ui-fe4](https://github.com/raazeved/apiSalesCloud/blob/master/API_MANAGEMENT_UML.PNG)
 
-##  SDLC CODING
-![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/API_MANAGEMENT_SERVICOS.PNG)
+### C - SDLC SPECIFICATION - Data Model   
+![Ux-ui-fe5](https://github.com/raazeved/apiSalesCloud/blob/master/API_MANAGEMENT_PERSISTENCIA.PNG)
 
-### SDLC CODING  - Strategies   
-![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/API_MANAGEMENT_CODING.PNG)
+## IV - SDLC CODING  - SOLUTION IMPLEMENTATION
+### D - SDLC CODING  - Strategies   
+![Ux-ui-fe6](https://github.com/raazeved/apiSalesCloud/blob/master/API_MANAGEMENT_CODING.PNG)
 
-### SDLC TESTING - Postman    
-![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/API_MANAGEMENT_QUALIDADE.PNG)
+### E - SDLC CODING  - implementation in HTML/CSS/JS/React|C#|RectNative/Flutter 
+![Ux-ui-fe7](https://github.com/raazeved/apiSalesCloud/blob/master/API_MANAGEMENT_SERVICOS.PNG)
 
-##  SDLC USER ACCEPTANCE TEST - CHANGE MANAGEMENT PROCESS 
+### F - SDLC TESTING - Postman     
+![Ux-ui-fe8](https://github.com/raazeved/apiSalesCloud/blob/master/API_MANAGEMENT_QUALIDADE.PNG)
 
-### DATACENTER - DEPLOY API MANAGEMENT     
-![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/DATACENTER_VIRTUAL_PARA_API_MANAGEMENT.PNG)
+##  V - SDLC UAT - CHANGE MANAGEMENT PROCESS 
+Executing Test Plan - User Acceptance test Phase
 
-### DATACENTER - SUPPORT API MANAGEMENT     
-![Ux-ui-fe1](https://github.com/raazeved/apiSalesCloud/blob/master/API_MANAGEMENT_SUPORTE.PNG)
+### VI - DATACENTER - DEPLOY WEB API     
+![Ux-ui-fe9](https://github.com/raazeved/apiSalesCloud/blob/master/DATACENTER_VIRTUAL_PARA_API_MANAGEMENT.PNG)
 
+### VII - DATACENTER - SUPPORT WEB API      
+![Ux-ui-fe10](https://github.com/raazeved/apiSalesCloud/blob/master/API_MANAGEMENT_SUPORTE.PNG)
 
-
-
+Note: Flutter source code interface is implementing over the bitbucket.
